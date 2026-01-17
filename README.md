@@ -1,4 +1,5 @@
 # Student Portfolio Website
+This project was created as part of the level 5 Diploma in web application.
 
 ## Project Overview
 This project is a static front-end website created as part of a Level 5 Diploma
@@ -30,4 +31,4 @@ The website is deployed using GitHub Pages.
 
 ## Attribution
 Bootstrap framework used via CDN: https://getbootstrap.com
-All other code was written by the author.
+All other code was written by the author (Mohammad Noori).
